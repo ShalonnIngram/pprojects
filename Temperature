@@ -1,0 +1,13 @@
+//kelvin will remain a constant variable
+const kelvin = 293;
+
+//celsius is a constant variable and is 273 degrees less than kelvin
+const celsius = kelvin - 273;
+
+//formula for farenheit calc
+let farenheit = celsius * (9/5) + 32;
+
+//round down farenheit calc to avoid deciaml numbers
+farenheit = Math.floor(farenheit);
+
+console.log(`The temperature is ${farenheit} degrees Fahrenheit.`)
