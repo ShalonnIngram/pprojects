@@ -1,2 +1,2 @@
 # pprojects
-These are personal (passion) projects
+These are personal projects
