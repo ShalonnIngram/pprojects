@@ -1,3 +1,3 @@
 # pprojects
-Here you will find Data Science projects
+Here you will find a Data Science & a Analytics project
 
