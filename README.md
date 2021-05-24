@@ -1,2 +1,3 @@
 # pprojects
-These are personal projects
+Here you will find Data Science projects
+
